@@ -11,12 +11,8 @@ This is two expect scripts. One for the old 5.x SonicOS and one for the 6.x Soni
 -> A Linux machine (Have not tested on Linux Subsystem for Windows but it should work)<br>
 -> The 'expect' package <br>
 -- Use apt-get install expect for Debian/Ubuntu<br>
--- For CentOS/RHEL add the EPEL repo and run yum install expect [I haven't tried this script yet on my CentOS machine] <br>
+-- For CentOS/RHEL add the EPEL repo and run yum install expect <br>
 
 # Future Plans:<br>
--> Code the whole thing with VBS scripts for a Windows environment<br>
+-> Code the whole thing in PowerShell? Eh maybe<br>
 -> Rewrite both scripts to use something other than FTP<br>
-
-
-Created by John Amerkhanian
-
